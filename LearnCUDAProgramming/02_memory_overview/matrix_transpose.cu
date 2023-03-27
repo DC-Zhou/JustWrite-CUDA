@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define N 1024
+#define N 2048
 #define BLOCK_SIZE 32
 
 void fill_array(int *data) {
